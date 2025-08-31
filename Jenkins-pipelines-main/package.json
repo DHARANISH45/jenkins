@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-pipeline-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
